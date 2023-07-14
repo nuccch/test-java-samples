@@ -15,7 +15,7 @@
 9.openfeign //TODO
 10.http client //TODO
 11.okhttp //TODO
-12.rabbitmq //TODO
+12.rabbitmq
 13.sharding-jdbc //TODO
 
 
